@@ -9,6 +9,5 @@ body {
 
 div {
 	display: block;
-	background: #00000055;
-	padding: 25px;
+	background: url(image/bg.png);
 }
