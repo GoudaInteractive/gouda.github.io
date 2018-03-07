@@ -3,4 +3,11 @@ body {
 	overflow: hidden;
 	font-family: Arial;
 	color: #fff;
+	margin: 0px;
+	padding: 0px;
+}
+
+main {
+	background: rgba(0.0, 0.0, 0.0, 0.25);
+	padding: 5px;
 }
