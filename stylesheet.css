@@ -1,3 +1,6 @@
 body {
 	background: url(image/goudaInteractive.png);
+	overflow: hidden;
+	font-family: Arial;
+	color: #fff;
 }
